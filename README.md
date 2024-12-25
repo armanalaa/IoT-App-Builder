@@ -34,6 +34,8 @@ For more information on how to configure and deploy these applications, refer to
 ## License
 This repository contains software originally developed by the DISIT Lab and is licensed under the GNU Affero General Public License v3 (AGPL v3).
 
+See the [LICENSE](LICENSE) file for full terms.
+
 ## Contributions
 These files were developed by **Ala Arman** during their time at the **DISIT Lab**. This repository serves as a personal archive of their contributions to the Snap4City ecosystem.
 
